@@ -114,7 +114,7 @@ class ModalCreateRoom extends Component {
       )
 
     else {
-      return (<Redirect to="/game-find-egg" />);
+      return (<Redirect to="/findegg.github.io/game-find-egg" />);
     }
   }
 }

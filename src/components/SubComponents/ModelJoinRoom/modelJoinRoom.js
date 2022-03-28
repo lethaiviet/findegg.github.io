@@ -80,7 +80,7 @@ class ModalJoinRoom extends Component {
         </ModalConsumer></ModalProvider></FormGroup>
       )
     else {
-      return (<Redirect to="/game-find-egg" />);
+      return (<Redirect to="/findegg.github.io/game-find-egg" />);
     }
   }
 }

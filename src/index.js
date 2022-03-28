@@ -11,9 +11,9 @@ const hist = createBrowserHistory();
 ReactDOM.render(
   <Router history={hist}>
     <Switch>
-      <Route path="/dashboard" component={DashBoard} />
-      <Route path="/game-find-egg" component={GameFindEgg} />
-      <Redirect from="/" to="/dashboard" />
+      <Route path="/findegg.github.io/dashboard" component={DashBoard} />
+      <Route path="/findegg.github.io/game-find-egg" component={GameFindEgg} />
+      <Redirect from="/" to="/findegg.github.io/dashboard" />
     </Switch>
   </Router>,
   document.getElementById("root")
