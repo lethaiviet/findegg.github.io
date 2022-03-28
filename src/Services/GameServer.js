@@ -3,7 +3,7 @@ import { BehaviorSubject } from 'rxjs';
 export default class GameServer {
     static instance = GameServer.instance || new GameServer()
     constructor() {
-        const ENDPOINT = `http://game-counter-test-heroku.herokuapp.com/games`;
+        const ENDPOINT = `wss://game-counter-test-heroku.herokuapp.com/games`;
         this.io = require("socket.io-client");
         this.socket = this.io.connect(ENDPOINT, { "transports": ["websocket"] });
         this.currentName = "";

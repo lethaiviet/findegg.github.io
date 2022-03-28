@@ -52,7 +52,7 @@ function GameFindEgg() {
   const player2Info$ = GameServer.instance.player2Info$;
   const namePlayer = GameServer.instance.getCurrentName();
   const currentRoomID = GameServer.instance.getCurrentRoomId();
-  const maxNumEgg = 100;
+  const maxNumEgg = 50;
 
   var canvasAreaGameRef = useRef(null);
   var imgTitleGrassRef = React.createRef();
