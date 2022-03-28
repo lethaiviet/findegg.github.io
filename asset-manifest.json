@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/findegg.github.io/static/css/main.424700b4.chunk.css",
+    "main.js": "/findegg.github.io/static/js/main.7c49c98e.chunk.js",
+    "main.js.map": "/findegg.github.io/static/js/main.7c49c98e.chunk.js.map",
+    "runtime-main.js": "/findegg.github.io/static/js/runtime-main.f14d633d.js",
+    "runtime-main.js.map": "/findegg.github.io/static/js/runtime-main.f14d633d.js.map",
+    "static/css/2.00f1f48c.chunk.css": "/findegg.github.io/static/css/2.00f1f48c.chunk.css",
+    "static/js/2.741e10b8.chunk.js": "/findegg.github.io/static/js/2.741e10b8.chunk.js",
+    "static/js/2.741e10b8.chunk.js.map": "/findegg.github.io/static/js/2.741e10b8.chunk.js.map",
+    "index.html": "/findegg.github.io/index.html",
+    "static/css/2.00f1f48c.chunk.css.map": "/findegg.github.io/static/css/2.00f1f48c.chunk.css.map",
+    "static/css/main.424700b4.chunk.css.map": "/findegg.github.io/static/css/main.424700b4.chunk.css.map",
+    "static/js/2.741e10b8.chunk.js.LICENSE.txt": "/findegg.github.io/static/js/2.741e10b8.chunk.js.LICENSE.txt",
+    "static/media/background.25b195fc.jpg": "/findegg.github.io/static/media/background.25b195fc.jpg",
+    "static/media/boxName2.0cebb888.png": "/findegg.github.io/static/media/boxName2.0cebb888.png",
+    "static/media/boxName3.bf65ca62.png": "/findegg.github.io/static/media/boxName3.bf65ca62.png",
+    "static/media/lose.ccfcf617.jpg": "/findegg.github.io/static/media/lose.ccfcf617.jpg",
+    "static/media/titleGrass.f5db48d5.png": "/findegg.github.io/static/media/titleGrass.f5db48d5.png",
+    "static/media/victory.0b9e638b.jpg": "/findegg.github.io/static/media/victory.0b9e638b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f14d633d.js",
+    "static/css/2.00f1f48c.chunk.css",
+    "static/js/2.741e10b8.chunk.js",
+    "static/css/main.424700b4.chunk.css",
+    "static/js/main.7c49c98e.chunk.js"
+  ]
+}
